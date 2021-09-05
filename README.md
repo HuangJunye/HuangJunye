@@ -19,5 +19,5 @@ here are some ideas to get you started:
 
 [![QPong](https://github-readme-stats.vercel.app/api/pin/?username=HuangJunye&repo=QPong)](https://github.com/HuangJunye/QPong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangJunye&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangJunye&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
 
