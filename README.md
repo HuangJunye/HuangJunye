@@ -10,9 +10,6 @@
   <a href="https://twitter.com/HuangJunye">
     <img alt="Twitter followers" src="https://img.shields.io/twitter/follow/HuangJunye?style=social">
   </a>
-  <a>
-    <img alt="Profile last updated" src="https://img.shields.io/github/last-commit/HuangJunye/HuangJunye/main?label=Last%20updated&style=flat">
-  </a>
 </p>
 
 - 🔭 i’m currently working on *IBM Quantum Challenge Fall 2021*
@@ -48,5 +45,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangJunye&theme=gotham&layout=compact&exclude_repo=qiskit-terra,qiskit-textbook,huangjunye.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Junye's wakatime stats](https://github-readme-tstats.vercel.app/api/wakatime?username=HuangJunye&theme=gotham&layout=compact)](https://wakatime.com/@HuangJunye)
+[![Junye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuangJunye&theme=gotham&layout=compact)](https://wakatime.com/@HuangJunye)
 
+![Profile last updated](https://img.shields.io/github/last-commit/HuangJunye/HuangJunye/main?label=Last%20updated&style=flat)
