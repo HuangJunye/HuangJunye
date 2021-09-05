@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-<!--
-**huangjunye/huangjunye** is a ✨ _special_ ✨ repository because its `readme.md` (this file) appears on your github profile.
-
-here are some ideas to get you started:
-
-- 🔭 i’m currently working on ...
-- 🌱 i’m currently learning ...
+- 🔭 i’m currently working on *IBM Quantum Challenge Fall 2021*
+- 🌱 i’m currently learning *Standard ML*
+<!-- 
 - 👯 i’m looking to collaborate on ...
 - 🤔 i’m looking for help with ...
 - 💬 ask me about ...
@@ -14,7 +10,6 @@ here are some ideas to get you started:
 - 😄 pronouns: ...
 - ⚡ fun fact: ...
 -->
-
 ![Junye's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuangJunye&show_icons=true&theme=gotham&count_private=true)
 
 
