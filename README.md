@@ -12,11 +12,11 @@
 -->
 
 ### Quantum Games
-<a href="https://github.com/HuangJunye/QPong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuangJunye&repo=QPong&theme=gotham" />
-</a>
 <a href="https://github.com/HuangJunye/Awesome-Quantum-Games">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuangJunye&repo=Awesome-Quantum-Games&theme=gotham" />
+</a>
+<a href="https://github.com/HuangJunye/QPong">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuangJunye&repo=QPong&theme=gotham" />
 </a>
 <a href="https://github.com/HuangJunye/QPong-Unity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuangJunye&repo=QPong-Unity&theme=gotham" />
