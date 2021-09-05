@@ -23,7 +23,8 @@
 - ⚡ fun fact: ...
 -->
 
-### Quantum Games
+<details>
+<summary> Quantum Games </summary>
 <a href="https://github.com/HuangJunye/Awesome-Quantum-Games">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuangJunye&repo=Awesome-Quantum-Games&theme=gotham" />
 </a>
@@ -39,6 +40,7 @@
 <a href="https://github.com/HuangJunye/Wolfiverse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuangJunye&repo=Wolfiverse&theme=gotham" />
 </a>
+</details>
 
 <details>
 <summary> Some Stats </summary>
