@@ -1,4 +1,4 @@
-### Hi there 👋an
+### Hi there 👋
 
 <!--
 **huangjunye/huangjunye** is a ✨ _special_ ✨ repository because its `readme.md` (this file) appears on your github profile.
@@ -15,5 +15,5 @@ here are some ideas to get you started:
 - ⚡ fun fact: ...
 -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HuangJunye&show_icons=true&theme=gotham" alt="HuangJunye" />
+![Junye's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuangJunye&show_icons=true&theme=gotham&count_private=true)
 
