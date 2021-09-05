@@ -7,7 +7,7 @@
   <a href="https://github.com/HuangJunye?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/HuangJunye?color=green&logo=github">
   </a>
-  <a href="https://twitter.com/HuangJunye">
+  <a href="https://twitter.com/intent/follow?screen_name=HuangJunye">
     <img alt="Twitter followers" src="https://img.shields.io/twitter/follow/HuangJunye?style=social">
   </a>
 </p>
