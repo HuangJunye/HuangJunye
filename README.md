@@ -17,3 +17,5 @@ here are some ideas to get you started:
 
 ![Junye's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuangJunye&show_icons=true&theme=gotham&count_private=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuangJunye&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
