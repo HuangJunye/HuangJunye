@@ -4,11 +4,11 @@
   <a href="https://github.com/HuangJunye/HuangJunye">
     <img src="https://komarev.com/ghpvc/?username=HuangJunye" alt="Profile views" />
   </a>
-  <a href="https://stackoverflow.com/users/1012547">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1012547?color=orange&label=reputation&logo=stackoverflow">
-  </a>
   <a href="https://github.com/HuangJunye?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/HuangJunye?color=green&logo=github">
+  </a>
+  <a href="https://twitter.com/HuangJunye">
+    <img alt="GitHub followers" src="https://img.shields.io/twitter/follow/HuangJunye?style=social">
   </a>
 </p>
 
@@ -45,4 +45,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangJunye&theme=gotham&layout=compact&exclude_repo=qiskit-terra,qiskit-textbook,huangjunye.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Junye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuangJunye&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Junye's wakatime stats](https://github-readme-tstats.vercel.app/api/wakatime?username=HuangJunye&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
