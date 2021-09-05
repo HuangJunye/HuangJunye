@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<p align="left">
+  <a href="https://github.com/HuangJunye/HuangJunye">
+    <img src="https://komarev.com/ghpvc/?username=HuangJunye" alt="Profile views" />
+  </a>
+  <a href="https://stackoverflow.com/users/1012547">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1012547?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/HuangJunye?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/HuangJunye?color=green&logo=github">
+  </a>
+</p>
+
 - 🔭 i’m currently working on *IBM Quantum Challenge Fall 2021*
 - 🌱 i’m currently learning *Standard ML*
 <!-- 
