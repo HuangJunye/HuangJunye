@@ -15,5 +15,5 @@ here are some ideas to get you started:
 - ⚡ fun fact: ...
 -->
 
-[![Junye's github stats](https://github-readme-stats.vercel.app/api?username=HuangJunye)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HuangJunye&show_icons=true&theme=gotham" alt="HuangJunye" />
 
