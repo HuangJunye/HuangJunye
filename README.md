@@ -8,7 +8,10 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/HuangJunye?color=green&logo=github">
   </a>
   <a href="https://twitter.com/HuangJunye">
-    <img alt="GitHub followers" src="https://img.shields.io/twitter/follow/HuangJunye?style=social">
+    <img alt="Twitter followers" src="https://img.shields.io/twitter/follow/HuangJunye?style=social">
+  </a>
+  <a>
+    <img alt="Profile last updated" src="https://img.shields.io/github/last-commit/HuangJunye/HuangJunye/main?label=Last%20updated&style=flat">
   </a>
 </p>
 
@@ -47,4 +50,3 @@
 
 [![Junye's wakatime stats](https://github-readme-tstats.vercel.app/api/wakatime?username=HuangJunye&theme=gotham&layout=compact)](https://wakatime.com/@HuangJunye)
 
-![Profile last updated](https://img.shields.io/github/last-commit/HuangJunye/HuangJunye/main?label=Last%20updated&style=flat)
