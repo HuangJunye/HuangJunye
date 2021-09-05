@@ -40,11 +40,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuangJunye&repo=Wolfiverse&theme=gotham" />
 </a>
 
-### Some Stats
+<details>
+<summary> Some Stats </summary>
 ![Junye's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuangJunye&show_icons=true&theme=gotham&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangJunye&theme=gotham&layout=compact&exclude_repo=qiskit-terra,qiskit-textbook,huangjunye.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Junye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuangJunye&theme=gotham)](https://wakatime.com/@HuangJunye)
+</details>
 
 ![Profile last updated](https://img.shields.io/github/last-commit/HuangJunye/HuangJunye/main?label=Last%20updated&style=flat)
