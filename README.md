@@ -21,3 +21,5 @@ here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangJunye&exclude_repo=qiskit-terra,qiskit-textbook,huangjunye.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Junye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuangJunye)](https://github.com/anuraghazra/github-readme-stats)
+
