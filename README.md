@@ -19,6 +19,6 @@ here are some ideas to get you started:
 
 [![QPong](https://github-readme-stats.vercel.app/api/pin/?username=HuangJunye&repo=QPong&theme=gotham)](https://github.com/HuangJunye/QPong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangJunye&theme=gotham&theme=gotham&exclude_repo=qiskit-terra,qiskit-textbook,huangjunye.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangJunye&theme=gotham&layout=compact&exclude_repo=qiskit-terra,qiskit-textbook,huangjunye.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Junye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuangJunye&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
