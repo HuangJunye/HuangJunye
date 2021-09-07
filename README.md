@@ -47,7 +47,7 @@
 
 ![Junye's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuangJunye&show_icons=true&theme=gotham&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangJunye&theme=gotham&layout=compact&exclude_repo=qiskit-terra,qiskit-textbook,huangjunye.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangJunye&theme=gotham&layout=compact&exclude_repo=qiskit-terra,qiskit-textbook,huangjunye.github.io,NUS-Qiskit-Workshop)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Junye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuangJunye&theme=gotham)](https://wakatime.com/@HuangJunye)
 </details>
