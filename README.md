@@ -49,7 +49,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangJunye&theme=gotham&layout=compact&exclude_repo=qiskit-terra,qiskit-textbook,huangjunye.github.io,NUS-Qiskit-Workshop)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Junye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuangJunye&theme=gotham)](https://wakatime.com/@HuangJunye)
+[![Junye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuangJunye&theme=gotham&layout=compact)](https://wakatime.com/@HuangJunye)
 </details>
 
 ![Profile last updated](https://img.shields.io/github/last-commit/HuangJunye/HuangJunye/main?label=Last%20updated&style=flat)
