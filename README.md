@@ -12,8 +12,8 @@
   </a>
 </p>
 
-- 🔭 i’m currently working on *IBM Quantum Challenge Fall 2021*
-- 🌱 i’m currently learning *Standard ML*
+- 🔭 i’m currently working on [Qiskit BackendV2 mocked backends](https://github.com/Qiskit/qiskit-terra/pull/7643)
+- 🌱 i’m currently learning *Python*
 <!-- 
 - 👯 i’m looking to collaborate on ...
 - 🤔 i’m looking for help with ...
