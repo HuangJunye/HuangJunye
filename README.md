@@ -15,7 +15,7 @@
 - 🔭 i’m currently working on 
   - Launching [Qiskit advocate mentorship program (QAMP) Spring 22](https://github.com/qiskit-advocate/qamp-spring-22) cohort
   - Coding [Qiskit BackendV2 mocked backends](https://github.com/Qiskit/qiskit-terra/pull/7643)
-  - Presenting [Hands-on Introduction to Quantum Finance](https://github.com/HuangJunye/NUS-Frontiers-in-Fintech-and-Quantum-Computing-2022) for Frontiers in Fintech and Quantum Computing 2022 workshop at National University of Singapore
+  - [Content audit for Qiskit documentation](https://github.com/Qiskit/qiskit/issues/1419)
 - 🌱 i’m currently learning *Python*
 <!-- 
 - 👯 i’m looking to collaborate on ...
