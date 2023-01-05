@@ -32,11 +32,9 @@
 - ⚡ fun fact: ...
 -->
 
-<summary> Some Stats </summary>
+## Some Stats
 
 ![Junye's GitHub stats](https://github-readme-stats-huangjunye.vercel.app/api?username=HuangJunye&show_icons=true&theme=gotham&count_private=true)
-
-[![Top Langs](https://github-readme-stats-huangjunye.vercel.app/api/top-langs/?username=HuangJunye&theme=gotham&layout=compact&exclude_repo=qiskit-terra,qiskit-textbook,huangjunye.github.io,NUS-Qiskit-Workshop,NUS-PC5228-Qiskit-Workshop,presentations)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Junye's wakatime stats](https://github-readme-stats-huangjunye.vercel.app/api/wakatime?username=HuangJunye&theme=gotham&layout=compact)](https://wakatime.com/@HuangJunye)
 
