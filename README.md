@@ -13,10 +13,16 @@
 </p>
 
 - 🔭 i’m currently working on 
-  - Launching [Qiskit advocate mentorship program (QAMP) Spring 22](https://github.com/qiskit-advocate/qamp-spring-22) cohort
-  - Coding [Qiskit BackendV2 mocked backends](https://github.com/Qiskit/qiskit-terra/pull/7643)
-  - [Content audit for Qiskit documentation](https://github.com/Qiskit/qiskit/issues/1419)
-- 🌱 i’m currently learning *Python*
+  - [qiskit documentation guide](https://qiskit.github.io/qiskit_sphinx_theme/) for qiskit projects maintainers.
+  - faciliate external contributors making open source contributions to qiskit projects.
+  - answering qiskit questions on [quantum computing stackexchange](quantumcomputing.stackexchange.com/).
+- 💬 ask me about
+  - how to use qiskit
+  - qiskit documentation
+  - contributing to qiskit
+- 📫 how to reach me: i'm @junye on [qiskit slack workspace](https://ibm.co/joinqiskitslack).
+- 😄 pronouns: he/him
+- 🎮 my favorite video game is the witcher 3
 <!-- 
 - 👯 i’m looking to collaborate on ...
 - 🤔 i’m looking for help with ...
