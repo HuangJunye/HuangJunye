@@ -12,17 +12,15 @@
   </a>
 </p>
 
-- 🔭 i’m currently working on 
-  - [qiskit documentation guide](https://qiskit.github.io/qiskit_sphinx_theme/) for qiskit projects maintainers.
-  - faciliate external contributors making open source contributions to qiskit projects.
-  - answering qiskit questions on [quantum computing stackexchange](quantumcomputing.stackexchange.com/).
 - 💬 ask me about
-  - how to use qiskit
-  - qiskit documentation
-  - contributing to qiskit
+  - how to use qiskit and IBM Quantum Systems
+  - quantum education
 - 📫 how to reach me: i'm @junye on [qiskit slack workspace](https://ibm.co/joinqiskitslack).
 - 😄 pronouns: he/him
 - 🎮 my favorite video game is the witcher 3
+- 🧠 i'm currently learning
+  - 🎹 piano
+  - 🇪🇸 spanish
 <!-- 
 - 👯 i’m looking to collaborate on ...
 - 🤔 i’m looking for help with ...
